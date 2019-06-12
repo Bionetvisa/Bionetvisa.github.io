@@ -87,7 +87,7 @@ Networks for drug repositioning<br />
 <tr><td><b>10:40 - 11:05</b><br /> 
 <strong>Network-based knowledge for drug discovery: Application in pharmaceutical industry</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Tatsuya Andou</a><br />
+<a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Tatsuya Ando</a><br />
 <i>Takeda Pharmaceuticals, Tokyo, Japan</i></td></tr>
 </table>
  
