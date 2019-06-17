@@ -7,11 +7,12 @@ permalink: /venue
 
 ### Venue
 
-<b><a href="http://www.eugenfound.edu.gr/frontoffice/portal.asp?cpage=NODE&cnode=1">Eugenides Foundation</a>, room Andrea Puccio</b><br />
-387 Syngrou Avenue – 175 64 P. Faliro<br />
-Athens<br />
-Greece
+<p> Okinawa Insitute of Science and Technology Graduate University, Okinawa, Japan<br />
+1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495<br />
+<a href="https://www.oist.jp/access-map">https://www.oist.jp/access-map</a><br />
+Room: 2
+</p>
 
-<iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBrYYTQZJlVznlXAMqec2xBWtsoQScyadg&q=Eugenides+Foundation" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
+<!-- <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBrYYTQZJlVznlXAMqec2xBWtsoQScyadg&q=Eugenides+Foundation" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe> --?
 <br />
 
