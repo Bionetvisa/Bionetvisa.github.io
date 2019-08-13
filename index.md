@@ -45,13 +45,13 @@ Networks for drug repositioning<br />
 
 ### Important dates
 <table style="width 100%">
-<tr><td><b>August 1</b></td>
+<tr><td><b>October 1</b></td>
   <td>Abstract submission deadline<b><i><font color="#e60000"><a href="https://easychair.org/conferences/?conf=bionetvisa2019"> Submit now!</a></font></i></b></td></tr>
-<tr><td><b>August 7</b></td>
+<tr><td><b>OCtober 3</b></td>
   <td>Abstract acceptance notification</td></tr>
-<tr><td><b>August 20</b></td>
-  <td>Workshop's final program announcements</td></tr>
-<tr><td><b>September 1</b></td>
+<tr><td><b>October 10</b></td>
+  <td>Workshop's final program announcement</td></tr>
+<tr><td><b>October 20</b></td>
   <td>Workshop's registration deadline (no fee)</td></tr>
 <tr><td><b>October 31</b></td>
   <td>BioNetVisA 2019</td></tr>
@@ -158,7 +158,12 @@ Networks for drug repositioning<br />
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://www.protein.osaka-u.ac.jp/cell_systems/people.html">Hiroaki Imoto</a><br />
 <i>Institute for Protein Research, Osaka University, Osaka, Japan</i></td></tr>
-<tr><td><b>17:00 - 17:30</b><br />
+<tr><td><b>17:00 - 17:15</b><br />
+<strong>Mapping Interactions at Genome Scale for a Specific Biological Context: A Case Study in Epithelial-Mesenchymal Transition</strong><br />
+<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Ian_Overton.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
+<a href="https://www.research.ed.ac.uk/portal/en/persons/ian-overton(09d4f042-d66e-445c-9531-6d3c2603cc60).html">Ian Overton</a><br />
+<i>Queen's University Belfast, University of Edinburgh, Edinburgh, UK</i></td></tr>
+<tr><td><b>17:15 - 17:30</b><br />
 <strong>Talks selected from abstracts</strong></td></tr>
 <tr><td><b>17:30 - 18:00 </b><br />
 <strong>Round table discussion and closing remarks</strong><br /></td></tr>
