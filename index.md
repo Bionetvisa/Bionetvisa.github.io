@@ -160,9 +160,9 @@ Networks for drug repositioning<br />
 <i>Institute for Protein Research, Osaka University, Osaka, Japan</i></td></tr>
 <tr><td><b>17:00 - 17:15</b><br />
 <strong>Mapping Interactions at Genome Scale for a Specific Biological Context: A Case Study in Epithelial-Mesenchymal Transition</strong><br />
-<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Ian_Overton.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.research.ed.ac.uk/portal/en/persons/ian-overton(09d4f042-d66e-445c-9531-6d3c2603cc60).html">Ian Overton</a><br />
-<i>Queen's University Belfast, University of Edinburgh, Edinburgh, UK</i></td></tr>
+<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Ian_OVERTON.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
+<a href="https://pure.qub.ac.uk/portal/en/persons/ian-overton(812e6bd1-3c87-425f-83be-ccd36a9099a1).html">Ian Overton</a><br />
+<i>Queen's University Belfast, Belfast, UK</i></td></tr>
 <tr><td><b>17:15 - 17:30</b><br />
 <strong>Talks selected from abstracts</strong></td></tr>
 <tr><td><b>17:30 - 18:00 </b><br />
