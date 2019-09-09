@@ -134,7 +134,7 @@ Networks for drug repositioning<br />
 <a href="http://pklab.med.harvard.edu/index.html">Peter Kharchenko</a><br />
 <i>Harvard medical school, Boston, USA</i></td></tr>
 <tr><td><b>15:10 - 15:35 </b><br />
-<strong>Networks and trajectories in cancer</strong><br /> 
+<strong>Multiscale molecular exploration of medulloblastoma tumors</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://science.curie.fr/members/emmanuel-barillot-phd/">Emmanuel Barillot</a><br />
 <i>Institut Curie, Paris, France</i></td></tr>
