@@ -233,7 +233,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <p> Okinawa Insitute of Science and Technology Graduate University, Okinawa, Japan<br />
 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495<br />
 <a href="https://www.oist.jp/access-map">https://www.oist.jp/access-map</a><br />
-Room: 250 B
+Room: B250
 </p>
       
 
