@@ -147,25 +147,6 @@ Networks for drug repositioning<br />
 <tr><td><i>16:00 - 16:15 Break</i></td></tr>
 </table>
 
-
-	
-	
-	
-	p { margin-bottom: 0.25cm; direction: ltr; line-height: 120%; text-align: left; }p.western { }a:link { color: rgb(0, 0, 255); }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <table>
 <tr><td><b>16:15 - 16:45 </b><br />
 <strong>A universal network mechanism governing heterogenous ErbB signaling dynamics</strong><br /> 
