@@ -57,34 +57,32 @@ Networks for drug repositioning<br />
   <td>BioNetVisA 2019</td></tr>
 </table>
 
-### Preliminary program
+### Program
 
 <table>
 <tr><td><strong><font color="#e60000">Session 1: Pathway resources and maps construction in the AI era</font></strong></td></tr>
 <tr><td><b>08:50 - 09:00 Opening</b></td></tr>
-<tr><td><b>09:00 - 09:25</b><br />
+<tr><td><b>09:00 - 09:30</b><br />
 <strong>Deriving structured representations from natural language to aid scientific discovery: Case studies from reconstructing large pathway maps</strong><br />
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://suchee.bitbucket.io/">Sucheendra Kumar Palaniappan</a><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
-<tr><td><b>09:25 - 09:50 </b><br />
-<strong>Talks selected from abstracts</strong><br /></td></tr>
 </table> 
 
   
 <table>
 <tr><td><strong><font color="#e60000">Session 2: AI for network-based drug discovery and repositioning</font></strong></td></tr>
-<tr><td><b>09:50 - 10:15 </b><br />
+<tr><td><b>09:30 - 10:00 </b><br />
 <strong>Pharma Databases Integration coupled with human curation for Drug Development/Repurposing</strong><br /> 
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Junhyung_PARK.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://3bigs.com/en/about-us-eng/">Junhyung Park</a><br />
 <i>3BIGS CO., LTD. Suwon, Republic of Korea</i></td></tr>
-<tr><td><b>10:15 - 10:40 </b><br />
+<tr><td><b>10:00 - 10:30 </b><br />
 <strong>Network-based and data-driven drug discovery by machine learning</strong><br /> 
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Yoshihiro_YAMANISHI.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://labo.bio.kyutech.ac.jp/~yamani/index.html">Yoshihiro Yamanishi</a><br />
 <i>Kyushu Institute of Technology, Fukuoka, Japan</i></td></tr>
-<tr><td><b>10:40 - 11:05</b><br /> 
+<tr><td><b>10:30 - 11:00</b><br /> 
 <strong>Network-based knowledge for drug discovery: Application in pharmaceutical industry</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Tatsuya Ando</a><br />
@@ -92,79 +90,98 @@ Networks for drug repositioning<br />
 </table>
  
 <table> 
-<tr><td><i>11:05 - 11:15 Break</i></td></tr>
+<tr><td><i>11:00 - 11:15 Break</i></td></tr>
 </table>
 
 
 <table>
 <tr><td><strong><font color="#e60000">Session 3: Cancer evolution and medical applications of systems biology</font></strong></td></tr>
-<tr><td><b>11:15 - 11:40 </b><br />
+<tr><td><b>11:15 - 11:45 </b><br />
 <strong>The Reconstruction of Cancer Phylogenies</strong><br /> 
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_David_WEDGE.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.bdi.ox.ac.uk/Team/david-wedge">David Wedge</a><br />
 <i>Big Data Institute, University of Oxford, UK</i></td></tr>
-<tr><td><b>11:40 - 12:05 </b><br />
+<tr><td><b>11:45 - 12:15 </b><br />
 <strong>Challenges to integrating systems biology and artificial intelligence in medical applications</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.researchgate.net/profile/Yoshiyuki_Asai">Yoshiyuki Asai</a><br />
 <i>Yamaguchi University, Yamaguchi, Japan</i></td></tr>
-<tr><td><b>12:05 - 12:30 </b><br />
-<strong>Towards Data-Integrated Medicine</strong><br /> 
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.bsc.es/przulj-natasa">Natasa Przulj</a><br />
-<i>Barcelona Supercomputing Center, Barcelona, Spain</i></td></tr>
-<tr><td><b>12:30 - 13:00 </b><br />
-<strong>Talks selected from abstracts</strong></td></tr>
-</table>
-
-<table>
-<tr><td><i>13:00 - 14:00 Lunch</i></td></tr>
 </table>
 
 <table>
 <tr><th><font color="#e60000">Session 4: Big data: integration, visualization interpretation</font></th></tr>
-<tr><td><b>14:00 - 14:25</b><br />
+<tr><td><b>12:15 - 12:45</b><br />
 <strong>Multi-omics and medical data integration and visualization</strong><br /> 
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Reinhard_SCHNEIDER .pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://wwwfr.uni.lu/lcsb/people/reinhard_schneider">Reinhard Schneider</a><br />
 <i>Luxembourg Centre for Systems Biomedicine, Luxembourg</i></td></tr>
-<tr><td><b>14:25 - 15:10 <i><font color="#e60000">Keynote</font></i></b><br />
+</table>  
+
+<table>
+<tr><td><i>12:45 - 14:00 Lunch</i></td></tr>
+</table>
+
+<table>
+<tr><td><b>14:00 - 15:00 <i><font color="#e60000">Keynote</font></i></b><br />
 <strong>Joint analysis of large single-cell dataset collections</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://pklab.med.harvard.edu/index.html">Peter Kharchenko</a><br />
 <i>Harvard medical school, Boston, USA</i></td></tr>
-<tr><td><b>15:10 - 15:35 </b><br />
+<tr><td><b>15:00 - 15:30 </b><br />
 <strong>Multiscale molecular exploration of medulloblastoma tumors</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://science.curie.fr/members/emmanuel-barillot-phd/">Emmanuel Barillot</a><br />
 <i>Institut Curie, Paris, France</i></td></tr>
-<tr><td><b>15:35 - 16:00 </b><br />
-<strong>Talks selected from abstracts</strong></td></tr>
-</table>
-
-<table> 
-<tr><td><i>16:00 - 16:10 Break</i></td></tr>
 </table>
 
 <table>
 <tr><th><font color="#e60000">Session 5: Modelling of biological and disease networks</font></th></tr>
-<tr><td><b>16:10 - 16:35</b><br />
+<tr><td><b>15:30 - 16:00</b><br />
 <strong>Towards Predictive Biology: Applications and challenges of mechanistic modeling and machine learning</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://www.sbi.jp/members.htm">Ayako Yachie</a><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
-<tr><td><b>16:35 - 17:00 </b><br />
+</table>
+
+<table> 
+<tr><td><i>16:00 - 16:15 Break</i></td></tr>
+</table>
+
+
+	
+	
+	
+	p { margin-bottom: 0.25cm; direction: ltr; line-height: 120%; text-align: left; }p.western { }a:link { color: rgb(0, 0, 255); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+<tr><td><b>16:15 - 16:45 </b><br />
 <strong>A universal network mechanism governing heterogenous ErbB signaling dynamics</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://www.protein.osaka-u.ac.jp/cell_systems/people.html">Hiroaki Imoto</a><br />
 <i>Institute for Protein Research, Osaka University, Osaka, Japan</i></td></tr>
-<tr><td><b>17:00 - 17:15</b><br />
+<tr><td><b>16:45 - 17:05</b><br />
 <strong>Mapping Interactions at Genome Scale for a Specific Biological Context: A Case Study in Epithelial-Mesenchymal Transition</strong><br />
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Ian_OVERTON.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://pure.qub.ac.uk/portal/en/persons/ian-overton(812e6bd1-3c87-425f-83be-ccd36a9099a1).html">Ian Overton</a><br />
 <i>Queen's University Belfast, Belfast, UK</i></td></tr>
-<tr><td><b>17:15 - 17:30</b><br />
-<strong>Talks selected from abstracts</strong></td></tr>
+<tr><td><b>17:05 - 17:25</b><br />
+<strong>Merging data-based and mechanistic modelling to study osteoarthritis (OA) development and predict potential intervention targets</strong><br /> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
+<a href="https://www.kuleuven.be/wieiswie/en/person/00114452">Raphaelle Lesage/a><br />
+<i>Katholieke Universiteit Leuven, Leuven, Belgium</i></td></tr>
 <tr><td><b>17:30 - 18:00 </b><br />
 <strong>Round table discussion and closing remarks</strong><br /></td></tr>
 </table>
@@ -216,30 +233,8 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <p> Okinawa Insitute of Science and Technology Graduate University, Okinawa, Japan<br />
 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495<br />
 <a href="https://www.oist.jp/access-map">https://www.oist.jp/access-map</a><br />
-Room: 2
+Room: 250 B
 </p>
       
-<!--
-### Scope
-<p align="justify"><b>Development, curation and maintenance of biological network resources</b><br />
-Data models from interaction to pathway and network, available tools for the integration of new discoveries into existing signalling diagrams. Discussion of curation models from map manager-oriented to community-based update using web-tools and forums.
-</p>
-<p align="justify"><b>Cell signalling knowledge representation paradigms</b><br />
-From interaction to single pathways representation to comprehensive signalling networks: discussion of modes of biological processes representation; granularity, coverage, sources of information, annotation modes, cross-citations between different signalling networks resources, etc. Standard for graphical representation and data formats.
-</p>
-<p align="justify"><b>Visualization of data through networks</b><br />
-Paradigms of visualization of different types of high-throughput data on a network map. Data integration with a map. Methods compatibility with different paradigms of signalling networks reconstruction in various databases and resources.
-</p>
-<p align="justify"><b>Analytical tools for network biology</b><br />
-Tools for network analysis and manipulation, network modeling, network-based statistics. Studying network activation and inhibition, feedbacks and compensations, synthetic interactions.
-</p>
-<p align="justify"><b>Applications of networks in multi-omics data analysis in biomedical research and in clinics</b><br />
-Studies on single-cell data, microbiome, metabolomics and other omics data analysis, disease
-comorbidity, drug response prediction using network-based approaches.
-</p>
-### Sponsors
-  <div>
-      <a href="http://isac-net.org/" target="_blank"><img src="thumbnail_Logo_ISAC_sponsor.jpg" alt="INCa" style="float: left; width:30%; margin-right:10%; margin-bottom: 0.5em;"></a>
-      </div>	-->
 
 
