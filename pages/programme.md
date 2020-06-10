@@ -6,7 +6,6 @@ permalink: /programme
 
 
 
-
 ### BioNetVisA 2018 programme
 
 <table>
