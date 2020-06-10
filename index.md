@@ -116,7 +116,7 @@ Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-
 
 ### Registration
 <p><font color="#e60000">Deadline TBA</font><br />
-<center><a href="https://eccb2020.info/registration/">Register here</a>
+  <center><a href="https://eccb2020.info/registration/">Register here</a></center>
 </p>
 
 ### Organising committee
@@ -133,7 +133,7 @@ Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-
 
 ### Workshop link
 <p>
-<font color="#e60000">Deadline TBA</font>
+<font color="#e60000">TBA</font>
   </p>
 
 ### Contact us
