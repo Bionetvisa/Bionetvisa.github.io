@@ -1,11 +1,8 @@
-----
-title: BioNetVisA workshop 2019
----
-
-<center><a href="/"><img id="ICSB19" src="/ISCB2019_logo.jpg" style="width:160px;"/></a></center>
+<html>
+<center><a href="/"><img id="ECCB2020" src="Logo-ECCB-2020" style="width:160px;"/></a></center>
 <p> </p>
 
-# <center><font color="#e60000">BioNetVisA 2019 workshop</font></center>
+# <center><font color="#e60000">BioNetVisA 2020 workshop -virtual</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
 <!--
 <p align="center"><b><font color="#e60000">The final programme and the abstract booklet are available</font><a href="/Abstracts/Bionetvisa2018/BioNetVisA2018_booklet.pdf"> here</a></b></p>
@@ -31,171 +28,94 @@ title: BioNetVisA workshop 2019
 Molecular interaction and pathway databases<br />
 Comprehensive signalling networks<br />
 Networks annotation and curation<br />
+Text mining approaches<br />
+Contextualisation of networks<br />
 High-throughput data visualization, analysis and interpretation in the context of networks<br />
-Multi-scale networks (genome, epigenome, transcriptome, proteome, metabolome...)<br />
+Multi-scale networks<br />
+Networks of inter-cellular communication<br />
 Network modelling<br />
 Machine learning/Artificial Intelligence approaches in network biology <br />
 Basic research and clinical application of networks<br />
 Microbiome and networks<br />
 Single-cell data and network inference<br />
-Metabolomics and networks<br />
-Human microbiome<br />
 Networks for drug repositioning<br />
 </p>
 
 ### Important dates
 <table style="width 100%">
-<tr><td><b>October 24</b></td>
-  <td>Abstract submission deadline<b><i><font color="#e60000"><a href="https://easychair.org/conferences/?conf=bionetvisa2019"> Submit now!</a></font></i></b></td></tr>
-<tr><td><b>OCtober 25</b></td>
-  <td>Abstract acceptance notification</td></tr>
-<tr><td><b>October 28</b></td>
-  <td>Workshop's final program announcement</td></tr>
-<tr><td><b>October 30</b></td>
-  <td>Workshop's registration deadline (no fee)<b><i><font color="#e6000"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaN4cxxVxjswgFNVLq27oE80OxklfuRT_2hog3odtIqsmEqQ/viewform"> Register here</a></font></i></b></td></tr>
-<tr><td><b>October 31</b></td>
-  <td>BioNetVisA 2019</td></tr>
+<tr><td><b>June 20</b></td>
+  <td>Workshop's registration open</td></tr>
+<tr><td><b>TBA</b></td>
+  <td>Workshop's registration deadline</td></tr>
+<tr><td><b>September 4</b></td>
+  <td>BioNetVisA 2020 workshop</td></tr>
 </table>
 
-### Program
+### BioNetVisA 2020 Program
 
 <table>
-<tr><td><strong><font color="#e60000">Session 1: Pathway resources and maps construction in the AI era</font></strong></td></tr>
-<tr><td><b>08:50 - 09:00 Opening</b></td></tr>
-<tr><td><b>09:00 - 09:30</b><br />
-<strong>Deriving structured representations from natural language to aid scientific discovery: Case studies from reconstructing large pathway maps</strong><br />
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://suchee.bitbucket.io/">Sucheendra Kumar Palaniappan</a><br />
-<i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
-</table> 
-
-  
-<table>
-<tr><td><strong><font color="#e60000">Session 2: AI for network-based drug discovery and repositioning</font></strong></td></tr>
-<tr><td><b>09:30 - 10:00 </b><br />
-<strong>Pharma Databases Integration coupled with human curation for Drug Development/Repurposing</strong><br /> 
-<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Junhyung_PARK.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="http://3bigs.com/en/about-us-eng/">Junhyung Park</a><br />
-<i>3BIGS CO., LTD. Suwon, Republic of Korea</i></td></tr>
-<tr><td><b>10:00 - 10:30 </b><br />
-<strong>Network-based and data-driven drug discovery by machine learning</strong><br /> 
-<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Yoshihiro_YAMANISHI.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="http://labo.bio.kyutech.ac.jp/~yamani/index.html">Yoshihiro Yamanishi</a><br />
-<i>Kyushu Institute of Technology, Fukuoka, Japan</i></td></tr>
-<tr><td><b>10:30 - 11:00</b><br /> 
-<strong>Network-based knowledge for drug discovery: Application in pharmaceutical industry</strong><br /> 
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Tatsuya Ando</a><br />
-<i>Takeda Pharmaceuticals, Tokyo, Japan</i></td></tr>
-</table>
- 
-<table> 
-<tr><td><i>11:00 - 11:15 Break</i></td></tr>
-</table>
-
-
-<table>
-<tr><td><strong><font color="#e60000">Session 3: Cancer evolution and medical applications of systems biology</font></strong></td></tr>
-<tr><td><b>11:15 - 11:45 </b><br />
-<strong>The Reconstruction of Cancer Phylogenies</strong><br /> 
-<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_David_WEDGE.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.bdi.ox.ac.uk/Team/david-wedge">David Wedge</a><br />
-<i>Big Data Institute, University of Oxford, UK</i></td></tr>
-<tr><td><b>11:45 - 12:15 </b><br />
-<strong>Challenges to integrating systems biology and artificial intelligence in medical applications</strong><br /> 
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.researchgate.net/profile/Yoshiyuki_Asai">Yoshiyuki Asai</a><br />
-<i>Yamaguchi University, Yamaguchi, Japan</i></td></tr>
-</table>
-
-<table>
-<tr><th><font color="#e60000">Session 4: Big data: integration, visualization interpretation</font></th></tr>
-<tr><td><b>12:15 - 12:45</b><br />
-<strong>Multi-omics and medical data integration and visualization</strong><br /> 
-<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Reinhard_SCHNEIDER .pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://wwwfr.uni.lu/lcsb/people/reinhard_schneider">Reinhard Schneider</a><br />
-<i>Luxembourg Centre for Systems Biomedicine, Luxembourg</i></td></tr>
-</table>  
-
-<table>
-<tr><td><i>12:45 - 14:00 Lunch</i></td></tr>
-</table>
-
-<table>
-<tr><td><b>14:00 - 15:00 <i><font color="#e60000">Keynote</font></i></b><br />
-<strong>Joint analysis of large single-cell dataset collections</strong><br /> 
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="http://pklab.med.harvard.edu/index.html">Peter Kharchenko</a><br />
-<i>Harvard medical school, Boston, USA</i></td></tr>
-<tr><td><b>15:00 - 15:30 </b><br />
-<strong>Multiscale molecular exploration of medulloblastoma tumors</strong><br /> 
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://science.curie.fr/members/emmanuel-barillot-phd/">Emmanuel Barillot</a><br />
+<tr><td><i>Chairs: Inna Kuperstein and Emmanuel Barillot (Institut Curie, Paris, France)</i></td></tr>
+<tr><td><b>13:30 - 13:50</b><br />
+<strong>Multi-dimensional Computational Pipeline for Large-Scale Deep Screening of Compound Effect
+Assessment</strong><br />
+<!--<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />-->
+<a href="http://www.sbi.jp/members.htm">Samik Gosh</a> and <a href="http://www.sbi.jp/members.htm">Ayako Yachie</a><br />
+<i>SBI, Tokyo, Japan</i></td></tr>
+<tr><td><b>13:50 - 14:05 </b><br />
+<strong>Using inter-cellular communication maps to facilitate network medicine</strong><br /> 
+<!--<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Junhyung_PARK.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />-->
+<a href="https://www.earlham.ac.uk/tamas-korcsmaros">Tamas Korcsmaros</a><br />
+<i>Earlham Institute, Norwich, UK</i></td></tr>
+<tr><td><b>14:05 - 14:25 </b><br />
+<strong>COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms</strong><br /> 
+<!--<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Yoshihiro_YAMANISHI.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />-->
+<a href="https://wwwfr.uni.lu/lcsb/people/marek_ostaszewski">Marek Ostaszewski</a><br />
+<i>LCSB, Luxembourg/i></td></tr>
+<tr><td><b>14:25 - 14:40</b><br /> 
+<strong>AILANI COVID-19 - literature mining and artificial intelligence based question & answering - a scientific assistant for COVID-19 research
+</strong><br /> 
+<!--<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
+<a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Tatsuya Ando</a><br />-->
+<i>Biomax Informatics AG, Planegg, Germany</i></td></tr>
+<tr><td><b>14:40 - 14:55 </b><br />
+<strong>HENA, Heterogeneous Network-Based Data Set for Alzheimer's Disease</strong><br /> 
+Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-xenarios.html">Ioannis Xenarios</a><br />
+<i>UNIL, Lausanne, Switzerland</i></td></tr>
+<tr><td><b>14:55 - 15:10 </b><br />
+<strong>Contextualization of molecular networks for human diseases </strong><br /> 
+<a href="https://www.researchgate.net/profile/Luana_Licata">Luana Licata</a><br />
+<i>University of Rome Tor Vergata, Rome, Italy</i></td></tr>
+<tr><td><b>15:10 - 15:20</b><br />
+<strong>BioKC: a platform for quality controlled curation and annotation of systems biology models</strong><br /> 
+<a href="https://wwwfr.uni.lu/lcsb/people/carlos_vega_moreno">Carlos Vega</a><br />
+<i>LCSB, Luxembourg</i></td></tr>
+<tr><td><b>15:20 - 15:30 <i><font color="#e60000">Keynote</font></i></b><br />
+<strong>RA-map: building a state-of-the-art interactive knowledge base for rheumatoid arthritis</strong><br /> 
+<a href="https://www.genhotel.univ-evry.fr/team/team/members/vidisha-singh.html">Vidisha Sing</a><br />
+<i>University Evry - Paris Saclay, France</i></td></tr>
+<tr><td><b>15:30 - 15:40 </b><br />
+<strong>Comprehensive map of the Regulated Cell Death Signaling Network: a powerful analytical tool for studying diseases </strong><br />
+<a href="http://sysbio.curie.fr/">Cristobal Monraz</a><br />
 <i>Institut Curie, Paris, France</i></td></tr>
+<tr><td><b>15:40 - 15:50</b><br />
+<strong>The dynamics of multilayer network community structure</strong><br /> 
+<a href="https://www.bsc.es/cirillo-davide">Davide Cirillo</a><br />
+<i>BSC, Barcelona, Spain</i></td></tr>
+<tr><td><b>15:50 - 16:05 </b><br />
+<strong>Latest developments of WikiPathways database: disease applications</strong><br /> 
+<a href="https://www.maastrichtuniversity.nl/martina.kutmon">Martina Summer-Kutmon</a><br />
+<i>Maastricht University, Maastricht, the Netherlands</i></td></tr>
+<tr><td><b>16:05 - 16:25</b><br />
+<strong>Reactome Pathway Knowledgebase: Variants, Dark Proteins and Functional Interactions</strong><br />
+<a href="https://www.researchgate.net/profile/Robin_Haw">Robin Haw</a><br />
+<i>Ontario Institute of Cancer Research, Toronto, Canada</i></td></tr>
+<tr><td><b>16:25 - 16:30 </b><br />
+<strong>Closing remarks</strong><br /></td></tr>
 </table>
-
-<table>
-<tr><th><font color="#e60000">Session 5: Modelling of biological and disease networks</font></th></tr>
-<tr><td><b>15:30 - 16:00</b><br />
-<strong>Towards Predictive Biology: Applications and challenges of mechanistic modeling and machine learning</strong><br /> 
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="http://www.sbi.jp/members.htm">Ayako Yachie</a><br />
-<i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
-</table>
-
-<table> 
-<tr><td><i>16:00 - 16:15 Break</i></td></tr>
-</table>
-
-<table>
-<tr><td><b>16:15 - 16:45 </b><br />
-<strong>A universal network mechanism governing heterogenous ErbB signaling dynamics</strong><br /> 
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="http://www.protein.osaka-u.ac.jp/cell_systems/people.html">Hiroaki Imoto</a><br />
-<i>Institute for Protein Research, Osaka University, Osaka, Japan</i></td></tr>
-<tr><td><b>16:45 - 17:05</b><br />
-<strong>Mapping Interactions at Genome Scale for a Specific Biological Context: A Case Study in Epithelial-Mesenchymal Transition</strong><br />
-<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Ian_OVERTON.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://pure.qub.ac.uk/portal/en/persons/ian-overton(812e6bd1-3c87-425f-83be-ccd36a9099a1).html">Ian Overton</a><br />
-<i>Queen's University Belfast, Belfast, UK</i></td></tr>
-<tr><td><b>17:05 - 17:25</b><br />
-<strong>Merging data-based and mechanistic modelling to study osteoarthritis (OA) development and predict potential intervention targets</strong><br /> 
-<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.kuleuven.be/wieiswie/en/person/00114452">Raphaelle Lesage/a><br />
-<i>Katholieke Universiteit Leuven, Leuven, Belgium</i></td></tr>
-<tr><td><b>17:30 - 18:00 </b><br />
-<strong>Round table discussion and closing remarks</strong><br /></td></tr>
-</table>
- 
-### Abstract submission instructions
-<p>
-We invite to submit your abstract for a <b>talk</b> in the topics described above.<br />
-<font color="#e60000">The submission deadline is on August 1st 2019</font>
-</p>
-<p>Submitted abstracts will be reviewed by the scientific program committee and a notification of acceptance for a <b>talk</b> will be provided to the corresponding author by August 12th, 2018.
-</p>
-<p>Number of poster abstracts will be also selected for flash poster presentations (3 minutes of topic advertisement). 
-</p>
-<p><b>Abstract format:</b><br />
-Title<br />
-List of authors (the first author is the presenting author)<br />
-Affiliations<br />
-Abstract text in unstructured format (maximum 300 words)
-</p>
-<p align="justify"><b>Submission process</b><br />
-The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</span></b> relevant topic sessions.
-</p>
-<p align="justify">To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <b><a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="#e60000">TEMPLATE</font></span></a></b>
-</p>
-<p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2019 has received the abstract.
-</p>
-<b><a href="https://easychair.org/conferences/?conf=bionetvisa2019"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
 
 ### Registration
-
-<p>The free-of-charge registration is obligatory for all participants (speakers, poster presenters, audience). <br /> 
-<b><font color="#e60000">The registration deadline is on October 20th 2019</font></b><br />
-<b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaN4cxxVxjswgFNVLq27oE80OxklfuRT_2hog3odtIqsmEqQ/viewform?usp=sf_link"><font size="5" color="#e60000"><center>Register here</center></font></a></b>
+<font color="#e60000">Deadline TBA</font>
+<p><center><a href="https://eccb2020.info/registration/">Register here</a>
 </p>
 
 ### Organising committee
@@ -207,15 +127,12 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <a href="http://sysbio.curie.fr/">Luis Cristobal Monraz Gomez</a> (Institut Curie, France)<br />
 <a href="https://reactome.org/">Robin Haw</a> (Ontario Institute for Cancer Research, Canada)<br />
 <a href="http://www.ihes.fr/~zinovyev/">Andrei Zinovyev</a> (Institut Curie, France)<br />
-<a href="https://www.prinsesmaximacentrum.com/">Patrick Kemmeren</a> (Princess Maxima Center for Pediatric Oncology, Utrecht, Netherlands)
 </p>
 
-### Venue 
-<p> Okinawa Insitute of Science and Technology Graduate University, Okinawa, Japan<br />
-1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495<br />
-<a href="https://www.oist.jp/access-map">https://www.oist.jp/access-map</a><br />
-Room: B250
-</p>
-      
+### Workshop link
+<font color="#e60000">Deadline TBA</font>
 
+### Contact us
+bionetvisa@curie.fr
 
+</html>
