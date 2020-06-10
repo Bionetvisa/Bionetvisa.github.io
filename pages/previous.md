@@ -11,5 +11,5 @@ permalink: /previous
 <a href="http://sysbio.curie.fr/bionetvisa/bionetvisa2016.html">BioNetVisA 2016</a><br />
 <a href="https://sysbio.curie.fr/bionetvisa/bionetvisa2017.html">BioNetVisA 2017</a><br />
 <a href="/BioNetVisA2018.html">BioNetVisA 2018</a><br /> 
-<a href="/Bionetvisa2019.html">BioNetVisA 2019</a><br />
+<a href="/bionetvisa2019.html">BioNetVisA 2019</a><br />
 </p>
