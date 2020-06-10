@@ -73,21 +73,17 @@ Assessment</strong><br />
 <i>Earlham Institute, Norwich, UK</i></td></tr>
 <tr><td><b>14:05 - 14:25 </b><br />
 <strong>COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms</strong><br /> 
-<!--<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Yoshihiro_YAMANISHI.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />-->
 <a href="https://wwwfr.uni.lu/lcsb/people/marek_ostaszewski">Marek Ostaszewski</a><br />
-<i>LCSB, Luxembourg/i></td></tr>
+<i>LCSB, Luxembourg</i></td></tr>
 <tr><td><b>14:25 - 14:40</b><br /> 
-<strong>AILANI COVID-19 - literature mining and artificial intelligence based question & answering - a scientific assistant for COVID-19 research
-</strong><br /> 
-<!--<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Tatsuya Ando</a><br />-->
+<strong>AILANI COVID-19 - literature mining and artificial intelligence based question & answering - a scientific assistant for COVID-19 research</strong><br /> 
 <i>Biomax Informatics AG, Planegg, Germany</i></td></tr>
 <tr><td><b>14:40 - 14:55 </b><br />
 <strong>HENA, Heterogeneous Network-Based Data Set for Alzheimer's Disease</strong><br /> 
 Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-xenarios.html">Ioannis Xenarios</a><br />
 <i>UNIL, Lausanne, Switzerland</i></td></tr>
 <tr><td><b>14:55 - 15:10 </b><br />
-<strong>Contextualization of molecular networks for human diseases </strong><br /> 
+<strong>Contextualization of molecular networks for human diseases</strong><br /> 
 <a href="https://www.researchgate.net/profile/Luana_Licata">Luana Licata</a><br />
 <i>University of Rome Tor Vergata, Rome, Italy</i></td></tr>
 <tr><td><b>15:10 - 15:20</b><br />
@@ -124,7 +120,8 @@ Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-
 </p>
 
 ### Organising committee
-<p><a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
+<p>
+<a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
 <a href="http://www.sbi.jp/">Hioraki Kitano</a> (RIKEN Center for Integrative Medical Sciences, Japan)<br />
 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Spanish National Bioinformatics Institute, Madrid, Spain)<br/>
 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br />
