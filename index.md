@@ -1,10 +1,9 @@
 ---
-title: BioNetVisA workshop 2018
-layout: default
+title: BioNetVisA workshop 2020
+
 ---
-<style>
-body, h1, h2, h3, h4, h5, h6
-</style>
+
+
 <html>
 <body>
 <center><a href="/"><img id="ECCB2020" src="Logo-ECCB-2020" style="width:160px;"/></a></center>
