@@ -6,6 +6,7 @@ permalink: /abstract
 
 ### Abstract submission
 Coming soon
+
 <!--
 <p>
 We invite to submit your abstract for a <b>talk</b> in the topics described above.<br />
@@ -28,5 +29,6 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 </p>
 <p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2019 has received the abstract.
 </p>
-<b><a href="https://easychair.org/conferences/?conf=bionetvisa2019"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
--->
+<b><a href="https://easychair.org/conferences/?conf=bionetvisa2019"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>-->
+ 
+
