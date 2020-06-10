@@ -6,7 +6,7 @@ title: BioNetVisA workshop 2020
 
 <html>
 <body>
-<center><a href="/"><img id="ECCB2020" src="Logo-ECCB-2020" style="width:160px;"/></a></center>
+<center><a href="/"><img id="ECCB2020" src="Logo-ECCB-2020.png" style="width:160px;"/></a></center>
 <p> </p>
 
 # <center><font color="#e60000">BioNetVisA 2020 workshop -virtual</font></center>
