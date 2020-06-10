@@ -1,7 +1,9 @@
-----
-title: BioNetVisA workshop 2020
+---
+title: BioNetVisA workshop 2018
+layout: default
 ---
 
+<html>
 <center><a href="/"><img id="ECCB2020" src="Logo-ECCB-2020" style="width:160px;"/></a></center>
 <p> </p>
 
@@ -137,3 +139,5 @@ Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-
 
 ### Contact us
 bionetvisa@curie.fr
+
+</html>
