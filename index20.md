@@ -1,5 +1,5 @@
 ----
-title: BioNetVisA workshop 2019
+title: BioNetVisA workshop 2020
 ---
 
 <center><a href="/"><img id="ECCB2020" src="Logo-ECCB-2020" style="width:160px;"/></a></center>
