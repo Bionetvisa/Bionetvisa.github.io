@@ -91,7 +91,7 @@ Networks for drug repositioning<br />
 <strong>BioKC: a platform for quality controlled curation and annotation of systems biology models</strong><br /> 
 <a href="https://wwwfr.uni.lu/lcsb/people/carlos_vega_moreno">Carlos Vega</a><br />
 <i>LCSB, Luxembourg</i></td></tr>
-<tr><td><b>15:20 - 15:30 <i><font color="#e60000">Keynote</font></i></b><br />
+<tr><td><b>15:20 - 15:30</b><br />
 <strong>RA-map: building a state-of-the-art interactive knowledge base for rheumatoid arthritis</strong><br /> 
 <a href="https://www.genhotel.univ-evry.fr/team/team/members/vidisha-singh.html">Vidisha Sing</a><br />
 <i>University Evry - Paris Saclay, France</i></td></tr>
