@@ -61,26 +61,27 @@ Networks for drug repositioning<br />
 <table>
 <tr><td><i>Chairs: Inna Kuperstein and Emmanuel Barillot (Institut Curie, Paris, France)</i></td></tr>
 <tr><td><b>13:30 - 13:50</b><br />
-<strong>Multi-dimensional Computational Pipeline for Large-Scale Deep Screening of Compound Effect
-Assessment</strong><br />
-<!--<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />-->
-<a href="http://www.sbi.jp/members.htm">Samik Gosh</a> and <a href="http://www.sbi.jp/members.htm">Ayako Yachie</a><br />
-<i>SBI, Tokyo, Japan</i></td></tr>
+<strong>COVID-19 Taxila: mining patterns in text in the fight against the pandemic</strong><br />
+<a href="/Abstracts/Bionetvisa2020/Talk_01_Palaniappan_Ghosh_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
+<a href="http://www.sbi.jp/members.htm">Sucheendra K. Palaniappan </a> and <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a><br />
+<i>SBI, Tokyo, Japan</i><br />
+<i>SBX Corporation, Tokyo, Japan</i></td></tr>
 <tr><td><b>13:50 - 14:05 </b><br />
 <strong>Using inter-cellular communication maps to facilitate network medicine</strong><br /> 
-<!--<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Junhyung_PARK.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />-->
 <a href="https://www.earlham.ac.uk/tamas-korcsmaros">Tamas Korcsmaros</a><br />
 <i>Earlham Institute, Norwich, UK</i></td></tr>
 <tr><td><b>14:05 - 14:25 </b><br />
 <strong>COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms</strong><br /> 
+<a href="/Abstracts/Bionetvisa2020/Talk_03_Ostaszewski_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://wwwfr.uni.lu/lcsb/people/marek_ostaszewski">Marek Ostaszewski</a><br />
 <i>LCSB, Luxembourg</i></td></tr>
 <tr><td><b>14:25 - 14:40</b><br /> 
-<strong>AILANI COVID-19 - literature mining and artificial intelligence based question & answering - a scientific assistant for COVID-19 research</strong><br /> 
+<strong>AILANI COVID-19 - literature mining and artificial intelligence based question & answering - a scientific assistant for COVID-19 research</strong><br />
+<a href="https://www.researchgate.net/profile/Angela_Bauch">Angela Bauch</a> and <a href="https://de.linkedin.com/in/dietermaier">Dieter Maier</a><br />
 <i>Biomax Informatics AG, Planegg, Germany</i></td></tr>
 <tr><td><b>14:40 - 14:55 </b><br />
 <strong>HENA, Heterogeneous Network-Based Data Set for Alzheimer's Disease</strong><br /> 
-Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-xenarios.html">Ioannis Xenarios</a><br />
+<a href="https://www.researchgate.net/profile/Elena_Suegis">Elena Sugis</a> and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-xenarios.html">Ioannis Xenarios</a><br />
 <i>UNIL, Lausanne, Switzerland</i></td></tr>
 <tr><td><b>14:55 - 15:10 </b><br />
 <strong>Contextualization of molecular networks for human diseases</strong><br /> 
@@ -96,14 +97,16 @@ Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-
 <i>University Evry - Paris Saclay, France</i></td></tr>
 <tr><td><b>15:30 - 15:40 </b><br />
 <strong>Comprehensive map of the Regulated Cell Death Signaling Network: a powerful analytical tool for studying diseases </strong><br />
+<a href="/Abstracts/Bionetvisa2020/Talk_09_Monraz_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://sysbio.curie.fr/">Cristobal Monraz</a><br />
 <i>Institut Curie, Paris, France</i></td></tr>
 <tr><td><b>15:40 - 15:50</b><br />
 <strong>The dynamics of multilayer network community structure</strong><br /> 
+<a href="/Abstracts/Bionetvisa2020/Talk_10_Cirillo_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.bsc.es/cirillo-davide">Davide Cirillo</a><br />
 <i>BSC, Barcelona, Spain</i></td></tr>
 <tr><td><b>15:50 - 16:05 </b><br />
-<strong>Latest developments of WikiPathways database: disease applications</strong><br /> 
+<strong>WikiPathways: Pathway Models for Network Analysis</strong><br /> 
 <a href="https://www.maastrichtuniversity.nl/martina.kutmon">Martina Summer-Kutmon</a><br />
 <i>Maastricht University, Maastricht, the Netherlands</i></td></tr>
 <tr><td><b>16:05 - 16:25</b><br />
@@ -116,7 +119,7 @@ Elena Sugis and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-
 
 ### Registration
 <p><font color="#e60000">Deadline TBA</font><br />
-  <center><a href="https://eccb2020.info/registration/">Register here</a></center>
+<center><a href="https://eccb2020.info/registration/">Register here</a></center>
 </p>
 
 ### Organising committee
