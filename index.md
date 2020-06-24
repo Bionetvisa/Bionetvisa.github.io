@@ -1,6 +1,5 @@
 ---
 title: BioNetVisA workshop 2020
-
 ---
 
 
@@ -89,10 +88,12 @@ Networks for drug repositioning<br />
 <i>University of Rome Tor Vergata, Rome, Italy</i></td></tr>
 <tr><td><b>15:10 - 15:20</b><br />
 <strong>BioKC: a platform for quality controlled curation and annotation of systems biology models</strong><br /> 
+<a href="/Abstracts/Bionetvisa2020/Talk_07_Vega_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />  
 <a href="https://wwwfr.uni.lu/lcsb/people/carlos_vega_moreno">Carlos Vega</a><br />
 <i>LCSB, Luxembourg</i></td></tr>
 <tr><td><b>15:20 - 15:30</b><br />
 <strong>RA-map: building a state-of-the-art interactive knowledge base for rheumatoid arthritis</strong><br /> 
+<a href="/Abstracts/Bionetvisa2020/Talk_08_Singh_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.genhotel.univ-evry.fr/team/team/members/vidisha-singh.html">Vidisha Sing</a><br />
 <i>University Evry - Paris Saclay, France</i></td></tr>
 <tr><td><b>15:30 - 15:40 </b><br />
