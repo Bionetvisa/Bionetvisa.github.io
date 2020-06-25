@@ -128,7 +128,7 @@ Networks for drug repositioning<br />
 <p>
 <a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
 <a href="http://www.sbi.jp/">Hioraki Kitano</a> (RIKEN Center for Integrative Medical Sciences, Japan)<br />
-<a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Spanish National Bioinformatics Institute, Madrid, Spain)<br/>
+<a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Barcelona Supercomputing Center, Barcelona, Spain)<br/>
 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br />
 <a href="http://sysbio.curie.fr/">Inna Kuperstein</a> (Institut Curie, France)<br />
 <a href="http://sysbio.curie.fr/">Luis Cristobal Monraz Gomez</a> (Institut Curie, France)<br />
