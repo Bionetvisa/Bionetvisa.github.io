@@ -108,6 +108,7 @@ Networks for drug repositioning<br />
 <i>BSC, Barcelona, Spain</i></td></tr>
 <tr><td><b>15:50 - 16:05 </b><br />
 <strong>WikiPathways: Pathway Models for Network Analysis</strong><br /> 
+<a href="/Abstracts/Bionetvisa2020/Talk_11_Kutmon_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.maastrichtuniversity.nl/martina.kutmon">Martina Summer-Kutmon</a><br />
 <i>Maastricht University, Maastricht, the Netherlands</i></td></tr>
 <tr><td><b>16:05 - 16:25</b><br />
