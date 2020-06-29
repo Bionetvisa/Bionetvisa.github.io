@@ -113,6 +113,7 @@ Networks for drug repositioning<br />
 <i>Maastricht University, Maastricht, the Netherlands</i></td></tr>
 <tr><td><b>16:05 - 16:25</b><br />
 <strong>Reactome Pathway Knowledgebase: Variants, Dark Proteins and Functional Interactions</strong><br />
+<a href="/Abstracts/Bionetvisa2020/Talk_12_Haw_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.researchgate.net/profile/Robin_Haw">Robin Haw</a><br />
 <i>Ontario Institute of Cancer Research, Toronto, Canada</i></td></tr>
 <tr><td><b>16:25 - 16:30 </b><br />
