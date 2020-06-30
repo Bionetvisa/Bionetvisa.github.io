@@ -67,6 +67,7 @@ Networks for drug repositioning<br />
 <i>SBX Corporation, Tokyo, Japan</i></td></tr>
 <tr><td><b>13:50 - 14:05 </b><br />
 <strong>Using inter-cellular communication maps to facilitate network medicine</strong><br /> 
+<a href="/Abstracts/Bionetvisa2020/Talk_02_Korcsmaros_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.earlham.ac.uk/tamas-korcsmaros">Tamas Korcsmaros</a><br />
 <i>Earlham Institute, Norwich, UK</i></td></tr>
 <tr><td><b>14:05 - 14:25 </b><br />
