@@ -127,7 +127,7 @@ Networks for drug repositioning<br />
 
 ### Registration
 <p>
-<font size ="3"><a href="https://eccb2020.info/registration/">Register here</a></font>
+<font size ="2"><a href="https://eccb2020.info/registration/">Register here</a></font>
 </p>
 
 ### Organising committee
