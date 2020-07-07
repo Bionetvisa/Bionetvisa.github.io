@@ -8,8 +8,9 @@ title: BioNetVisA workshop 2020
 
 # <center><font color="#e60000">BioNetVisA 2020 workshop -virtual</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
+
+<p align="center"><b><font color="#e60000">The final programme and the abstract booklet are available</font><a href="/Abstracts/Bionetvisa2020/BioNetVisA2020_booklet.pdf"> here</a></b></p>
 <!--
-<p align="center"><b><font color="#e60000">The final programme and the abstract booklet are available</font><a href="/Abstracts/Bionetvisa2018/BioNetVisA2018_booklet.pdf"> here</a></b></p>
 <p align="center"><b><font color="#e60000">The workshop presentations are available</font><a href="https://drive.google.com/open?id=1cLa4gSUAeogCNUi1yAFzlidHbOrxakxh"> here</a></b></p> -->
 
 <p align="justify"><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
@@ -77,14 +78,17 @@ Networks for drug repositioning<br />
 <i>LCSB, Luxembourg</i></td></tr>
 <tr><td><b>14:25 - 14:40</b><br /> 
 <strong>AILANI COVID-19 - literature mining and artificial intelligence based question & answering - a scientific assistant for COVID-19 research</strong><br />
+<a href="/Abstracts/Bionetvisa2020/Talk_04_Bauch_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.researchgate.net/profile/Angela_Bauch">Angela Bauch</a> and <a href="https://de.linkedin.com/in/dietermaier">Dieter Maier</a><br />
 <i>Biomax Informatics AG, Planegg, Germany</i></td></tr>
 <tr><td><b>14:40 - 14:55 </b><br />
 <strong>HENA, Heterogeneous Network-Based Data Set for Alzheimer's Disease</strong><br /> 
+<a href="/Abstracts/Bionetvisa2020/Talk_05_Sugis_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.researchgate.net/profile/Elena_Suegis">Elena Sugis</a> and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-xenarios.html">Ioannis Xenarios</a><br />
 <i>UNIL, Lausanne, Switzerland</i></td></tr>
 <tr><td><b>14:55 - 15:10 </b><br />
 <strong>Contextualization of molecular networks for human diseases</strong><br /> 
+<a href="/Abstracts/Bionetvisa2020/Talk_06_Licata_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://www.researchgate.net/profile/Luana_Licata">Luana Licata</a><br />
 <i>University of Rome Tor Vergata, Rome, Italy</i></td></tr>
 <tr><td><b>15:10 - 15:20</b><br />
@@ -122,8 +126,8 @@ Networks for drug repositioning<br />
 </table>
 
 ### Registration
-<p><font color="#e60000">Deadline TBA</font><br />
-<center><a href="https://eccb2020.info/registration/">Register here</a></center>
+<p>
+<font size ="3"><a href="https://eccb2020.info/registration/">Register here</a></font>
 </p>
 
 ### Organising committee
