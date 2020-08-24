@@ -84,7 +84,9 @@ Networks for drug repositioning<br />
 <tr><td><b>14:40 - 14:55 </b><br />
 <strong>HENA, Heterogeneous Network-Based Data Set for Alzheimer's Disease</strong><br /> 
 <a href="/Abstracts/Bionetvisa2020/Talk_05_Sugis_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.researchgate.net/profile/Elena_Suegis">Elena Sugis</a> and <a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-xenarios.html">Ioannis Xenarios</a><br />
+<a href="https://www.researchgate.net/profile/Elena_Suegis">Elena Sugis</a><br />
+<i>Institute of Computer Science, University of Tartu</i><br />
+<a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-xenarios.html">Ioannis Xenarios</a><br />
 <i>UNIL, Lausanne, Switzerland</i></td></tr>
 <tr><td><b>14:55 - 15:10 </b><br />
 <strong>Contextualization of molecular networks for human diseases</strong><br /> 
