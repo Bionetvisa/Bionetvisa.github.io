@@ -133,11 +133,12 @@ Abstract text in unstructured format (maximum 300 words)<br />
 ## Submission process
 The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and indicate three-five relevant topics.<br />
 <br />
-To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <a href="/AbstractTemplate_BioNetVisA.docx">TEMPLATE</a><br />
+To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this 
+<a href="/AbstractTemplate_BioNetVisA.docx">TEMPLATE</a><br />
 <br />
 When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2019 has received the abstract.<br />
 <br />
-##Submit your abstract <a href="https://easychair.org/conferences/?conf=bionetvisa2021">here</a><br />
+Submit your abstract <a href="https://easychair.org/conferences/?conf=bionetvisa2021">here</a><br />
 </p>
 
 ### Registration and accomodation
