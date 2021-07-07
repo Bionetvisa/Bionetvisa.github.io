@@ -6,7 +6,7 @@ title: BioNetVisA workshop 2021
 <center><a href="/"><img id="BC2_2021" src="BC2_2021_logo.png" style="width:160px;"/></a></center>
 <p> </p>
 
-# <center><font color="#e60000">BioNetVisA 2020 workshop -virtual</font></center>
+# <center><font color="#e60000">BioNetVisA 2021 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
 <!--
 <p align="center"><b><font color="#e60000">The final programme and the abstract booklet are available</font><a href="/Abstracts/Bionetvisa2020/BioNetVisA2020_booklet.pdf"> here</a></b></p>
