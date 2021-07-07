@@ -27,7 +27,6 @@ title: BioNetVisA workshop 2021
 ### Audience
 <p align="justify">The workshop targets computational systems biologists, molecular and cell biologists, clinicians and a wide audience interested in update and discussion around current status of network biology, pathway databases, and related analysis tools, including visualization, statistical analysis and dynamic modelling. No computational background is required to attend the workshop.
 </p>
-
 -->
 
 ### BioNetVisA 2020 Program
