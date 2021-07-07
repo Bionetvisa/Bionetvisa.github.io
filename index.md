@@ -130,7 +130,8 @@ Affiliations<br />
 Abstract text in unstructured format (maximum 300 words)<br />
 <br />
 <br />
-## Submission process
+##Submission process
+<p>
 The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and indicate three-five relevant topics.<br />
 <br />
 To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this 
@@ -171,7 +172,5 @@ Petersplatz 1<br />
 <font color="#e60000">TBA</font>
   </p>
 -->
-### Contact us
-<p>
-bionetvisa@curie.fr
-</p>
+
+
