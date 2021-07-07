@@ -84,7 +84,7 @@ Round table</td></tr>
 </table>
 <p>
 17:00: Start <a href="https://www.bc2.ch/">bc2</a> (Welcome words and lecture)<br />
-16:30 - 22:00 <a href="https://www.bc2.ch/">bc2 Welcome drinks and "party"
+16:30 - 22:00 <a href="https://www.bc2.ch/">bc2</a> Welcome drinks and "party"
 </p>
 
 
