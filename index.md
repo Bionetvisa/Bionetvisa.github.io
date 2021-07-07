@@ -1,16 +1,16 @@
 ---
-title: BioNetVisA workshop 2020
+title: BioNetVisA workshop 2021
 ---
 
 
-<center><a href="/"><img id="ECCB2020" src="Logo-ECCB-2020.png" style="width:160px;"/></a></center>
+<center><a href="/"><img id="BC2_2021" src="BC2_2021_logo.png" style="width:160px;"/></a></center>
 <p> </p>
 
-# <center><font color="#e60000">BioNetVisA 2020 workshop -virtual</font></center>
+# <center><font color="#e60000">BioNetVisA 2021 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
-
-<p align="center"><b><font color="#e60000">The final programme and the abstract booklet are available</font><a href="/Abstracts/Bionetvisa2020/BioNetVisA2020_booklet.pdf"> here</a></b></p>
 <!--
+<p align="center"><b><font color="#e60000">The final programme and the abstract booklet are available</font><a href="/Abstracts/Bionetvisa2020/BioNetVisA2020_booklet.pdf"> here</a></b></p>
+
 <p align="center"><b><font color="#e60000">The workshop presentations are available</font><a href="https://drive.google.com/open?id=1cLa4gSUAeogCNUi1yAFzlidHbOrxakxh"> here</a></b></p> -->
 
 <p align="justify"><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
@@ -23,134 +23,155 @@ title: BioNetVisA workshop 2020
 
 <p align="justify">The <b>BioNetVisA</b> workshop aims at identifying bottlenecks and proposing short- and long-term objectives for the community as discussing questions about accessibility of available tools for wide range of user in every-day standalone application in biological and clinical labs. In addition, the possibilities for collective efforts by academic researchers, clinicians, biotech companies and future development directions in the field will be discussed during the round table panel.
 </p>
-
+<!--
 ### Audience
 <p align="justify">The workshop targets computational systems biologists, molecular and cell biologists, clinicians and a wide audience interested in update and discussion around current status of network biology, pathway databases, and related analysis tools, including visualization, statistical analysis and dynamic modelling. No computational background is required to attend the workshop.
 </p>
+-->
 
-### Key Themes
+### BioNetVisA 2020 Program
+
+<table>
+<tr><td><b>8:30 - 9:00</b><br />
+Registration</td></tr>
+
+<tr><td><strong>Session 1</strong></td></tr>
+<tr><td><b>9:00 - 9:30</b><br />
+<a href="https://www.ebi.ac.uk/about/people/henning-hermjakob">Henning Hermjakob</a> <br />
+<i>EMBL-EBI, Cambridge, UK</i></td></tr>
+<tr><td><b>9:30 - 10:00</b><br />
+<a href="https://www.ntnu.edu/employees/asmund.flobak">Åsmund Flobak</a> <br />
+<i>NTNU, Trondheim, NO</i></td></tr>
+<tr><td><b>10:00 - 10:15</b><br />
+Talk selected from abstracts</td></tr>
+</table>
+<p>
+<i>10:15 - 1045: Coffee break</i>
+</p>
+<table>
+<tr><td><strong>Session 2</strong></td></tr>
+<tr><td><b>10:45 - 11:15</b><br />
+<a href="https://www.ibens.ens.fr/spip.php?article364">Laura Cantini</a> <br />
+<i>IBENS – ENS, Paris, FR</i></td></tr>
+<tr><td><b>11:15 - 11:45</b><br />
+<a href="http://boevalab.inf.ethz.ch/">Valentina Boeva</a> <br />
+<i>ETH, Zurich, CH</i></td></tr> 
+<tr><td><b>11:45 - 12:00</b><br />
+Talk selected from abstracts</td></tr>
+<tr><td><b>12:00 - 12:15</b><br />
+Talk selected from abstracts</td></tr>
+</table>
+<p>
+<i>12:15 - 13:30: Lunch</i>
+</p>
+<table>
+<tr><td><strong>Session 3</strong></td></tr>
+<tr><td><b>13:30 - 14:00</b><br />
+<a href="https://genexplain.com/standard_posts/our-team/">Alexander Kel</a> <br />
+<i>neXplain, Wolfenbüttel, DE</i></td></tr>
+<tr><td><b>14:00 - 14:30</b><br />
+<a href="https://biochem.unl.edu/tomas-helikar">Thomas Helikar</a> <br />
+<i>University of Nebraska, Nebraska, US</i></td></tr> 
+<tr><td><b>14:30 - 15:00</b><br />
+<a href="https://rupertoverall.net/">Rupert W Overall</a> <br />
+<i>Technische Universität Dresden, DES</i></td></tr> 
+<tr><td><b>15:00 - 15:15</b><br />
+Talk selected from abstracts</td></tr>
+<tr><td><b>15:30 - 15: 45</b><br />
+Talk selected from abstracts</td></tr>
+<tr><td><b>15:45 - 16:00</b><br />
+Round table</td></tr>
+</table>
+<p>
+17:00: Start <a href="https://www.bc2.ch/">bc2</a> (Welcome words and lecture)<br />
+16:30 - 22:00 <a href="https://www.bc2.ch/">bc2</a> Welcome drinks and "party"
+</p>
+
+
+### Important dates
+<table style="width 100%">
+<tr><td><b>August 1</b></td>
+  <td>Abstracts submission deadline</td></tr>
+<tr><td><b>August 5</b></td>
+  <td>Selected speaker's notification</td></tr>
+<tr><td><b>September 5</b></td>
+  <td>Registration deadline</td></tr>
+<tr><td><b>September 13</b></td>
+  <td>BioNetVisA 2021 workshop</td></tr>
+</table>
+
+
+### Topics
 <p>Graphical representation of biological knowledge<br />
 Molecular interaction and pathway databases<br />
 Comprehensive signalling networks<br />
 Networks annotation and curation<br />
-Text mining approaches<br />
-Contextualisation of networks<br />
 High-throughput data visualization, analysis and interpretation in the context of networks<br />
-Multi-scale networks<br />
+Multi-scale networks (genome, epigenome, transcriptome, proteome, metabolome, lipidome..)<br />
+Contextualization of networks (species, diseases, developmental stages…)<br />
 Networks of inter-cellular communication<br />
 Network modelling<br />
 Machine learning/Artificial Intelligence approaches in network biology <br />
 Basic research and clinical application of networks<br />
 Microbiome and networks<br />
 Single-cell data and network inference<br />
-Networks for drug repositioning<br />
+Networks for drug repositioning and disease coomorbidity<br />
 </p>
 
-### Important dates
-<table style="width 100%">
-<tr><td><b>June 20</b></td>
-  <td>Workshop's registration open</td></tr>
-<tr><td><b>TBA</b></td>
-  <td>Workshop's registration deadline</td></tr>
-<tr><td><b>September 4</b></td>
-  <td>BioNetVisA 2020 workshop</td></tr>
-</table>
+### Abstract submission
+<p align="justify">We invite to submit your abstract for a talk or a poster in the topics described above.<br />
+The submission deadline is on August 1st 2021<br />
+Submitted abstracts will be reviewed by the scientific program committee and a notification of acceptance for a talk or a poster will be provided to the corresponding author by August 5th, 2021<br />
+<br />
+Abstract format:<br />
+Title<br />
+List of authors (the first author is the presenting autor)<br />
+Affiliations<br />
+Abstract text in unstructured format (maximum 300 words)<br />
+<br />
+<br />
+## Submission process
+The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and indicate three-five relevant topics.<br />
+<br />
+To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this 
+<a href="/AbstractTemplate_BioNetVisA.docx">TEMPLATE</a><br />
+<br />
+When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2019 has received the abstract.<br />
+<br />
+Submit your abstract <a href="https://easychair.org/conferences/?conf=bionetvisa2021">here</a><br />
+</p>
 
-### BioNetVisA 2020 Program
+### Registration and accomodation
+<p align="justify"> Please note that all registrations to the workshop and accommodation arrangements have to be done through the <a href="https://www.bc2.ch/">[BC]2</a> registration webpage
+</p>
 
-<table>
-<tr><td><i>Chairs: Inna Kuperstein and Emmanuel Barillot (Institut Curie, Paris, France)</i></td></tr>
-<tr><td><b>13:30 - 13:50</b><br />
-<strong>COVID-19 Taxila: mining patterns in text in the fight against the pandemic</strong><br />
-<a href="/Abstracts/Bionetvisa2020/Talk_01_Palaniappan_Ghosh_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="http://www.sbi.jp/members.htm">Sucheendra K. Palaniappan </a> and <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a><br />
-<i>SBI, Tokyo, Japan</i><br />
-<i>SBX Corporation, Tokyo, Japan</i></td></tr>
-<tr><td><b>13:50 - 14:05 </b><br />
-<strong>Using inter-cellular communication maps to facilitate network medicine</strong><br /> 
-<a href="/Abstracts/Bionetvisa2020/Talk_02_Korcsmaros_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.earlham.ac.uk/tamas-korcsmaros">Tamas Korcsmaros</a><br />
-<i>Earlham Institute, Norwich, UK</i></td></tr>
-<tr><td><b>14:05 - 14:25 </b><br />
-<strong>COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms</strong><br /> 
-<a href="/Abstracts/Bionetvisa2020/Talk_03_Ostaszewski_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://wwwfr.uni.lu/lcsb/people/marek_ostaszewski">Marek Ostaszewski</a><br />
-<i>LCSB, Luxembourg</i></td></tr>
-<tr><td><b>14:25 - 14:40</b><br /> 
-<strong>AILANI COVID-19 - literature mining and artificial intelligence based question & answering - a scientific assistant for COVID-19 research</strong><br />
-<a href="/Abstracts/Bionetvisa2020/Talk_04_Bauch_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.researchgate.net/profile/Angela_Bauch">Angela Bauch</a> and <a href="https://de.linkedin.com/in/dietermaier">Dieter Maier</a><br />
-<i>Biomax Informatics AG, Planegg, Germany</i></td></tr>
-<tr><td><b>14:40 - 14:55 </b><br />
-<strong>HENA, Heterogeneous Network-Based Data Set for Alzheimer's Disease</strong><br /> 
-<a href="/Abstracts/Bionetvisa2020/Talk_05_Sugis_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.researchgate.net/profile/Elena_Suegis">Elena Sugis</a><br />
-<i>Institute of Computer Science, University of Tartu</i><br />
-<a href="https://www.unil.ch/cig/en/home/menuinst/research/prof-xenarios.html">Ioannis Xenarios</a><br />
-<i>UNIL, Lausanne, Switzerland</i></td></tr>
-<tr><td><b>14:55 - 15:10 </b><br />
-<strong>Contextualization of molecular networks for human diseases</strong><br /> 
-<a href="/Abstracts/Bionetvisa2020/Talk_06_Licata_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.researchgate.net/profile/Luana_Licata">Luana Licata</a><br />
-<i>University of Rome Tor Vergata, Rome, Italy</i></td></tr>
-<tr><td><b>15:10 - 15:20</b><br />
-<strong>BioKC: a platform for quality controlled curation and annotation of systems biology models</strong><br /> 
-<a href="/Abstracts/Bionetvisa2020/Talk_07_Vega_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />  
-<a href="https://wwwfr.uni.lu/lcsb/people/carlos_vega_moreno">Carlos Vega</a><br />
-<i>LCSB, Luxembourg</i></td></tr>
-<tr><td><b>15:20 - 15:30</b><br />
-<strong>RA-map: building a state-of-the-art interactive knowledge base for rheumatoid arthritis</strong><br /> 
-<a href="/Abstracts/Bionetvisa2020/Talk_08_Singh_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.genhotel.univ-evry.fr/team/team/members/vidisha-singh.html">Vidisha Sing</a><br />
-<i>University Evry - Paris Saclay, France</i></td></tr>
-<tr><td><b>15:30 - 15:40 </b><br />
-<strong>Comprehensive map of the Regulated Cell Death Signaling Network: a powerful analytical tool for studying diseases </strong><br />
-<a href="/Abstracts/Bionetvisa2020/Talk_09_Monraz_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="http://sysbio.curie.fr/">Cristobal Monraz</a><br />
-<i>Institut Curie, Paris, France</i></td></tr>
-<tr><td><b>15:40 - 15:50</b><br />
-<strong>The dynamics of multilayer network community structure</strong><br /> 
-<a href="/Abstracts/Bionetvisa2020/Talk_10_Cirillo_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.bsc.es/cirillo-davide">Davide Cirillo</a><br />
-<i>BSC, Barcelona, Spain</i></td></tr>
-<tr><td><b>15:50 - 16:05 </b><br />
-<strong>WikiPathways: Pathway Models for Network Analysis</strong><br /> 
-<a href="/Abstracts/Bionetvisa2020/Talk_11_Kutmon_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.maastrichtuniversity.nl/martina.kutmon">Martina Summer-Kutmon</a><br />
-<i>Maastricht University, Maastricht, the Netherlands</i></td></tr>
-<tr><td><b>16:05 - 16:25</b><br />
-<strong>Reactome Pathway Knowledgebase: Variants, Dark Proteins and Functional Interactions</strong><br />
-<a href="/Abstracts/Bionetvisa2020/Talk_12_Haw_BioNetVisA2020.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://www.researchgate.net/profile/Robin_Haw">Robin Haw</a><br />
-<i>Ontario Institute of Cancer Research, Toronto, Canada</i></td></tr>
-<tr><td><b>16:25 - 16:30 </b><br />
-<strong>Closing remarks</strong><br /></td></tr>
-</table>
-
-### Registration
+### Venue
 <p>
-<font size ="4"><a href="https://eccb2020.info/registration/">Register here</a></font>
-</p>
+<a href="https://www.unibas.ch/de">University of Basel</a><br />
+Kollegienhaus<br />
+Petersplatz 1<br />
+4001 Basel, Switzerland<br />
+
 
 ### Organising committee
 <p>
 <a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
-<a href="http://www.sbi.jp/">Hioraki Kitano</a> (RIKEN Center for Integrative Medical Sciences, Japan)<br />
-<a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Barcelona Supercomputing Center, Barcelona, Spain)<br/>
-<a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br />
+<a href="http://www.sbi.jp/">Hioraki Kitano</a> (Laboratory for Disease Systems Modeling, RIKEN Center for Integrative Medical Sciences, Japan)<br />
 <a href="http://sysbio.curie.fr/">Inna Kuperstein</a> (Institut Curie, France)<br />
-<a href="http://sysbio.curie.fr/">Luis Cristobal Monraz Gomez</a> (Institut Curie, France)<br />
-<a href="https://reactome.org/">Robin Haw</a> (Ontario Institute for Cancer Research, Canada)<br />
+<a href="http://sysbio.curie.fr/"> Cristobal Monraz Gomez</a> (Institut Curie, France)<br />
 <a href="http://www.ihes.fr/~zinovyev/">Andrei Zinovyev</a> (Institut Curie, France)<br />
+<a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br /> 
+<a href="https://reactome.org/">Robin Haw</a> (Ontario Institute for Cancer Research, Canada)<br />
+<a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Barcelona Supercomputing Center, Barcelona, Spain)<br/>
 </p>
 
+<!--
 ### Workshop link
 <p>
 <font color="#e60000">TBA</font>
   </p>
-
+-->
 ### Contact us
 <p>
 bionetvisa@curie.fr
 </p>
-
