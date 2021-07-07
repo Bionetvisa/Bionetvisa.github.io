@@ -37,9 +37,11 @@ Registration</td></tr>
 
 <tr><td><strong>Session 1</strong></td></tr>
 <tr><td><b>9:00 - 9:30</b><br />
+<strong>Looking Closely at Molecular Interactions</strong><br />
 <a href="https://www.ebi.ac.uk/about/people/henning-hermjakob">Henning Hermjakob</a> <br />
 <i>EMBL-EBI, Cambridge, UK</i></td></tr>
 <tr><td><b>9:30 - 10:00</b><br />
+<strong>Title TBA</strong><br />
 <a href="https://www.ntnu.edu/employees/asmund.flobak">Åsmund Flobak</a> <br />
 <i>NTNU, Trondheim, NO</i></td></tr>
 <tr><td><b>10:00 - 10:15</b><br />
@@ -51,9 +53,11 @@ Talk selected from abstracts</td></tr>
 <table>
 <tr><td><strong>Session 2</strong></td></tr>
 <tr><td><b>10:45 - 11:15</b><br />
+<strong>Evaluating the Reproducibility of Single-Cell Gene Regulatory Network Inference Algorithms</strong><br />
 <a href="https://www.ibens.ens.fr/spip.php?article364">Laura Cantini</a> <br />
 <i>IBENS – ENS, Paris, FR</i></td></tr>
 <tr><td><b>11:15 - 11:45</b><br />
+<strong>Regularization for sparsity, biological priors and neural networks in cancer survival models</strong><br />
 <a href="http://boevalab.inf.ethz.ch/">Valentina Boeva</a> <br />
 <i>ETH, Zurich, CH</i></td></tr> 
 <tr><td><b>11:45 - 12:00</b><br />
@@ -67,12 +71,15 @@ Talk selected from abstracts</td></tr>
 <table>
 <tr><td><strong>Session 3</strong></td></tr>
 <tr><td><b>13:30 - 14:00</b><br />
+<strong>Title TBA</strong><br />
 <a href="https://genexplain.com/standard_posts/our-team/">Alexander Kel</a> <br />
 <i>neXplain, Wolfenbüttel, DE</i></td></tr>
 <tr><td><b>14:00 - 14:30</b><br />
+<strong>Title TBA</strong><br />
 <a href="https://biochem.unl.edu/tomas-helikar">Thomas Helikar</a> <br />
 <i>University of Nebraska, Nebraska, US</i></td></tr> 
 <tr><td><b>14:30 - 15:00</b><br />
+<strong>Title TBA</strong><br />
 <a href="https://rupertoverall.net/">Rupert W Overall</a> <br />
 <i>Technische Universität Dresden, DES</i></td></tr> 
 <tr><td><b>15:00 - 15:15</b><br />
@@ -83,8 +90,8 @@ Talk selected from abstracts</td></tr>
 Round table</td></tr>
 </table>
 <p>
-17:00: Start <a href="https://www.bc2.ch/">bc2</a> (Welcome words and lecture)<br />
-16:30 - 22:00 <a href="https://www.bc2.ch/">bc2</a> Welcome drinks and "party"
+17:00: Start <a href="https://www.bc2.ch/">[BC]2</a> (Welcome words and lecture)<br />
+16:30 - 22:00 <a href="https://www.bc2.ch/">[BC]2</a> Welcome drinks and "party"
 </p>
 
 
