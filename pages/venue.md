@@ -6,12 +6,11 @@ permalink: /venue
 
 
 ### Venue
-
 <p>
-VIRTUAL<br />
-More information coming soon
+<a href="https://www.unibas.ch/de">University of Basel</a><br />
+Kollegienhaus<br />
+Petersplatz 1<br />
+4001 Basel, Switzerland<br />
 </p>
 
-<!-- <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBrYYTQZJlVznlXAMqec2xBWtsoQScyadg&q=Eugenides+Foundation" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-<br />
 
