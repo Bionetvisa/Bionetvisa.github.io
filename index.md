@@ -3,7 +3,7 @@ title: BioNetVisA workshop 2021
 ---
 
 
-<center><a href="/"><img id="BC2_2021" src="BC2_2021_logo.png" style="width:160px;"/></a></center>
+<center><a href="https://www.bc2.ch/"><img id="BC2_2021" src="BC2_2021_logo.png" style="width:160px;"/></a></center>
 <p> </p>
 
 # <center><font color="#e60000">BioNetVisA 2021 workshop</font></center>
