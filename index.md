@@ -48,7 +48,7 @@ Registration</td></tr>
 Talk selected from abstracts</td></tr>
 </table>
 <p>
-<i>10:15 - 1045: Coffee break</i>
+<i>10:15 - 10:45: Coffee break</i>
 </p>
 <table>
 <tr><td><strong>Session 2</strong></td></tr>
@@ -84,7 +84,7 @@ Talk selected from abstracts</td></tr>
 <i>Technische Universität Dresden, DES</i></td></tr> 
 <tr><td><b>15:00 - 15:15</b><br />
 Talk selected from abstracts</td></tr>
-<tr><td><b>15:30 - 15: 45</b><br />
+<tr><td><b>15:30 - 15:45</b><br />
 Talk selected from abstracts</td></tr>
 <tr><td><b>15:45 - 16:00</b><br />
 Round table</td></tr>
