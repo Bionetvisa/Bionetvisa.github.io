@@ -145,7 +145,7 @@ To assist us with creating the abstract booklet, please upload the same abstract
 <br />
 When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2019 has received the abstract.<br />
 <br />
-Submit your abstract <a href="https://easychair.org/conferences/?conf=bionetvisa2021"><u><b><font size="+1">here</a></u></b></font><br />
+Submit your abstract <font size="+1"><u><b><a href="https://easychair.org/conferences/?conf=bionetvisa2021">here</font></u></b></a><br />
 </p>
 
 ### Registration and accomodation
