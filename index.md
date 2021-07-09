@@ -39,7 +39,7 @@ Registration</td></tr>
 <tr><td><b>9:00 - 9:30</b><br />
 <strong>Looking Closely at Molecular Interactions</strong><br />
 <a href="https://www.ebi.ac.uk/about/people/henning-hermjakob">Henning Hermjakob</a> <br />
-<i>EMBL-EBI, Cambridge, UK</i></td></tr>
+<i>EMBL-EBI, Cambridge, UK</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Hermjacob.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>9:30 - 10:00</b><br />
 <strong>Title TBA</strong><br />
@@ -56,12 +56,12 @@ Talk selected from abstracts</td></tr>
 <tr><td><b>10:45 - 11:15</b><br />
 <strong>Evaluating the Reproducibility of Single-Cell Gene Regulatory Network Inference Algorithms</strong><br />
 <a href="https://www.ibens.ens.fr/spip.php?article364">Laura Cantini</a> <br />
-<i>IBENS – ENS, Paris, FR</i></td></tr>
+<i>IBENS – ENS, Paris, FR</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Cantini.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>11:15 - 11:45</b><br />
 <strong>Regularization for sparsity, biological priors and neural networks in cancer survival models</strong><br />
 <a href="http://boevalab.inf.ethz.ch/">Valentina Boeva</a> <br />
-<i>ETH, Zurich, CH</i></td></tr> 
+<i>ETH, Zurich, CH</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Boeva.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>11:45 - 12:00</b><br />
 Talk selected from abstracts</td></tr>
