@@ -42,9 +42,10 @@ Registration</td></tr>
 <i>EMBL-EBI, Cambridge, UK</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Hermjacob.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>9:30 - 10:00</b><br />
-<strong>Title TBA</strong><br />
-<a href="https://www.ntnu.edu/employees/asmund.flobak">Åsmund Flobak</a> <br />
-<i>NTNU, Trondheim, NO</i></td></tr>
+<strong>Fine tuning a logical model of cancer cells to predict drug synergies: combining manual curation and automated parameterization</strong><br />
+<a href="https://www.ntnu.edu/employees/asmund.flobak">Åsmund Flobak</a><br />
+<i>NTNU, Trondheim, NO</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Flobak.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>10:00 - 10:15</b><br />
 Talk selected from abstracts</td></tr>
 </table>
@@ -78,13 +79,15 @@ Talk selected from abstracts</td></tr>
 <a href="https://genexplain.com/standard_posts/our-team/">Alexander Kel</a> <br />
 <i>neXplain, Wolfenbüttel, DE</i></td></tr>
 <tr><td><b>14:00 - 14:30</b><br />
-<strong>Title TBA</strong><br />
+<strong>Quantitative systems pharmacology model-based drug target discovery for influenza</strong><br />
 <a href="https://biochem.unl.edu/tomas-helikar">Thomas Helikar</a> <br />
-<i>University of Nebraska, Nebraska, US</i></td></tr> 
+<i>University of Nebraska, Nebraska, US</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Helikar.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>14:30 - 15:00</b><br />
-<strong>Title TBA</strong><br />
+<strong>Molecular interaction networks controlling neural stem cells</strong><br />
 <a href="https://rupertoverall.net/">Rupert W Overall</a> <br />
 <i>Technische Universität Dresden, DE</i></td></tr> 
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Overall.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>15:00 - 15:15</b><br />
 Talk selected from abstracts</td></tr>
 <tr><td><b>15:30 - 15:45</b><br />
