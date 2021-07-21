@@ -86,7 +86,7 @@ Talk selected from abstracts</td></tr>
 <tr><td><b>14:30 - 15:00</b><br />
 <strong>Molecular interaction networks controlling neural stem cells</strong><br />
 <a href="https://rupertoverall.net/">Rupert W Overall</a> <br />
-<i>Technische Universität Dresden, DE</i></td></tr> 
+<i>Technische Universität Dresden, DE</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Overall.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>15:00 - 15:15</b><br />
 Talk selected from abstracts</td></tr>
