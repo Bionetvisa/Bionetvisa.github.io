@@ -29,7 +29,7 @@ title: BioNetVisA workshop 2021
 </p>
 -->
 
-### BioNetVisA 2020 Program
+### BioNetVisA 2021 Program
 
 <table>
 <tr><td><b>8:30 - 9:00</b><br />
