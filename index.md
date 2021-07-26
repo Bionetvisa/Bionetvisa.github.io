@@ -75,9 +75,10 @@ Talk selected from abstracts</td></tr>
 <table>
 <tr><td><strong>Session 3</strong></td></tr>
 <tr><td><b>13:30 - 14:00</b><br />
-<strong>Title TBA</strong><br />
+<strong>Personalized anti-cancer drug treatment choice using RNA-seq and network analysis</strong><br />
 <a href="https://genexplain.com/standard_posts/our-team/">Alexander Kel</a> <br />
-<i>neXplain, Wolfenbüttel, DE</i></td></tr>
+<i>neXplain, Wolfenbüttel, DE</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Kel.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>14:00 - 14:30</b><br />
 <strong>Quantitative systems pharmacology model-based drug target discovery for influenza</strong><br />
 <a href="https://biochem.unl.edu/tomas-helikar">Thomas Helikar</a> <br />
