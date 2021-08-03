@@ -87,7 +87,7 @@ Talk selected from abstracts</td></tr>
 <tr><td><b>14:30 - 15:00</b><br />
 <strong>Molecular interaction networks controlling neural stem cells</strong><br />
 <a href="https://rupertoverall.net/">Rupert W Overall</a> <br />
-<i>Technische Universität Dresden, DE</i><br />
+<i>Humboldt University of Berlin, DE</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Overall.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>15:00 - 15:15</b><br />
 Talk selected from abstracts</td></tr>
@@ -104,9 +104,9 @@ Round table</td></tr>
 
 ### Important dates
 <table style="width 100%">
-<tr><td><b>August 1</b></td>
+<tr><td><b>August 16</b></td>
   <td>Abstracts submission deadline</td></tr>
-<tr><td><b>August 5</b></td>
+<tr><td><b>August 20</b></td>
   <td>Selected speaker's notification</td></tr>
 <tr><td><b>September 5</b></td>
   <td>Registration deadline</td></tr>
