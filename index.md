@@ -105,7 +105,7 @@ Registration</td></tr>
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Kraft.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>15:15 - 15:30</b><br />
 <strong>An explainable deep learning approach to kidney cortex cell classification</strong><br />
-<a href="https://www.linkedin.com/in/thomas-chen-b701511b4">Thomas Chent</a> <br />
+<a href="https://www.linkedin.com/in/thomas-chen-b701511b4">Thomas Chen</a> <br />
 <i>Academy for Mathematics, Science, and Engineering, Rockaway, US</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Chen.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>15:30 - 16:00</b><br />
