@@ -47,27 +47,36 @@ Registration</td></tr>
 <i>NTNU, Trondheim, NO</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Flobak.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>10:00 - 10:15</b><br />
-Talk selected from abstracts</td></tr>
+<strong>A novel approach to maximize network lifetime using novenary model in WSN</strong><br />
+<a href="https://suiit.ac.in/phone-directory/name/sushree-pradhan">Sushree Pradhan</a><br />
+<i>Sambalpur University Insitute of Information Technology, IN</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Pradhan.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
 <p>
 <i>10:15 - 10:45: Coffee break</i>
 </p>
 <table>
 <tr><td><strong>Session 2</strong></td></tr>
-<tr><td><b>10:45 - 11:15</b><br />
+<tr><td><b>10:45 - 11:00</b><br />
+<strong>Enhancing the usefulness of transcriptome data in the context of Leishmania-infected macrophages with pathways biocuration and mathematical modelling</strong><br />
+<a href="https://uk.linkedin.com/in/julieth-murillo-silva-b2b5764b">Julieth Murillo Silva</a> <br />
+<i>Pontifica Universidad Javeriana-Cali, CO</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Murillo_Silva.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>11:00 - 11:30</b><br />
 <strong>Evaluating the Reproducibility of Single-Cell Gene Regulatory Network Inference Algorithms</strong><br />
 <a href="https://www.ibens.ens.fr/spip.php?article364">Laura Cantini</a> <br />
 <i>IBENS – ENS, Paris, FR</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Cantini.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>11:15 - 11:45</b><br />
+<tr><td><b>11:30 - 12:00</b><br />
 <strong>Regularization for sparsity, biological priors and neural networks in cancer survival models</strong><br />
 <a href="http://boevalab.inf.ethz.ch/">Valentina Boeva</a> <br />
 <i>ETH, Zurich, CH</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Boeva.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>11:45 - 12:00</b><br />
-Talk selected from abstracts</td></tr>
 <tr><td><b>12:00 - 12:15</b><br />
-Talk selected from abstracts</td></tr>
+<strong>Kinase interaction network expands functional and disease roles of human kinases</strong><br />
+<a href="https://www.empa.ch/web/s403/datasci4nanotech">Marija Buljan</a> <br />
+<i>Empa, Materials Science and Technology, Zurich, CH</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Buljan.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
 <p>
 <i>12:15 - 13:30: Lunch</i>
@@ -90,11 +99,20 @@ Talk selected from abstracts</td></tr>
 <i>Humboldt University of Berlin, DE</i><br />
 <a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Overall.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>15:00 - 15:15</b><br />
-Talk selected from abstracts</td></tr>
-<tr><td><b>15:30 - 15:45</b><br />
-Talk selected from abstracts</td></tr>
-<tr><td><b>15:45 - 16:00</b><br />
-Round table</td></tr>
+<strong>Prediction of intratumor transcriptional heterogeneity from bulk tumors</strong><br />
+<a href="http://boevalab.inf.ethz.ch/people.html">Agnieszka Kraft</a> <br />
+<i>ETH, Zurich, CH</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Kraft.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>15:15 - 15:30</b><br />
+<strong>An explainable deep learning approach to kidney cortex cell classification</strong><br />
+<a href="https://www.linkedin.com/in/thomas-chen-b701511b4">Thomas Chent</a> <br />
+<i>Academy for Mathematics, Science, and Engineering, Rockaway, US</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Chen.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>15:30 - 16:00</b><br />
+<strong>Graphia: A platform for the graph-based visualisation and analysis of high dimensional data</strong><br />
+<a href="https://www.linkedin.com/in/tom-freeman-9a58991a">Tom Freeman</a> <br />
+<i>The University of Edinburgh, Edinburhg, UK</i><br />
+<a href="/Abstracts/BioNetVisA2021/BioNetVisA2021_Freeman.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
 <p>
 17:00: Start <a href="https://www.bc2.ch/">[BC]2</a> (Welcome words and lecture)<br />
@@ -161,10 +179,9 @@ Submit your abstract <font size="+1"><u><b><a href="https://easychair.org/confer
 
 ### Venue
 <p>
-<a href="https://www.unibas.ch/de">University of Basel</a><br />
-Kollegienhaus<br />
-Petersplatz 1<br />
-4001 Basel, Switzerland<br />
+<a href="https://www.biozentrum.unibas.ch/">Biozentrum, University of Basel</a><br />
+Spitalstrasse 41<br />
+4056 Basel, Switzerland<br />
 </p>
 
 ### Organising committee
