@@ -7,10 +7,9 @@ permalink: /venue
 
 ### Venue
 <p>
-<a href="https://www.unibas.ch/de">University of Basel</a><br />
-Kollegienhaus<br />
-Petersplatz 1<br />
-4001 Basel, Switzerland<br />
+<a href="https://www.biozentrum.unibas.ch/">Biozentrum, Univeristy of Basel</a><br />
+Spitalstrasse 41<br />
+4056 Basel, Switzerland<br />
 </p>
 
 
